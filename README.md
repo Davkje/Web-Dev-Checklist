@@ -1,9 +1,15 @@
 # Web-Dev-Checklist
 My Checklist
 
+## Before we begin
+- [ ] Simply write down what we are making
+- [ ] Write down what i know that we can apply here
+- [ ] Write down what I dont know and will have to learn
+
 ## Project setup
-- [ ] Write pseudo code for the tasks
 - [ ] Commit `.gitignore` the first thing you do
+- [ ] Write pseudo code for the tasks
+- [ ] Sass structure and Style Reset
 
 ## General
 - [ ] Avoid Swenglish
